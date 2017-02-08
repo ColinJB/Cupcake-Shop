@@ -1,0 +1,14 @@
+html {
+  background-image:url("http://4.bp.blogspot.com/-cKu6wXb3xs4/Tkjzpa38tTI/AAAAAAAAAGM/nlFoGnxiotk/s1600/faux+cupcakes.jpg");
+  background-attachment: fixed;
+  background-position: center;
+}
+.flashy {
+  color: red;
+  font-style: italic;
+}
+.best {
+  color: white;
+  font-weight: bold;
+  font-family: fantasy;
+}
